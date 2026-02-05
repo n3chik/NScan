@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Разработка проекта закрыта. F</h1>
+  <h1>Новая версия - https://github.com/n3chik/NeoBrute</h1>
   <h1>NScan</h1>
   <h2>PortScanner & Hikvision and Dahua cameras Bruteforcer</h2>
   <img src="./nscan.png" alt="banner" />
@@ -57,3 +58,4 @@ run.bat
 # ‼️ Дисклеймер ‼️
 
 # ⚠️ Информация представлена только для обучения. Автор не отвечает за последствия применения.
+
